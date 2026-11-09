@@ -1,0 +1,10 @@
+{
+  "name": "Remix Cube ACR Web - Perekam VoIP \u0026 MP3 Cloud Sync",
+  "description": "Aplikasi perekam panggilan VoIP otomatis dengan konversi MP3 ke penyimpanan lokal perangkat dan sinkronisasi multi-cloud.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
